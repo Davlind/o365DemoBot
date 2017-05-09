@@ -1,0 +1,57 @@
+c:\sd\O365DemoBot\O365DemoBot\bin\ApplicationInsights.config
+c:\sd\O365DemoBot\O365DemoBot\bin\Bot Application.dll.config
+c:\sd\O365DemoBot\O365DemoBot\bin\Bot Application.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Bot Application.pdb
+c:\sd\O365DemoBot\O365DemoBot\bin\Autofac.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Chronic.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.Agent.Intercept.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.DependencyCollector.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.Web.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.WindowsServer.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.ApplicationInsights.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.ApplicationInsights.TraceListener.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.Bot.Builder.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.Bot.Connector.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Newtonsoft.Json.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\System.Net.Http.Formatting.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\System.Web.Http.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\System.Web.Http.WebHost.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\Autofac.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.DependencyCollector.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.Web.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.AI.WindowsServer.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.ApplicationInsights.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.ApplicationInsights.TraceListener.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.Bot.Builder.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.Bot.Connector.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\Newtonsoft.Json.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\sd\O365DemoBot\O365DemoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\System.Net.Http.Formatting.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\System.Web.Http.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\System.Web.Http.WebHost.xml
+c:\sd\O365DemoBot\O365DemoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\sd\O365DemoBot\O365DemoBot\obj\Debug\O365DemoBot.csprojResolveAssemblyReference.cache
+c:\sd\O365DemoBot\O365DemoBot\obj\Debug\Bot Application.dll
+c:\sd\O365DemoBot\O365DemoBot\obj\Debug\Bot Application.pdb
