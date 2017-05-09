@@ -23,7 +23,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <TargetFrameworkProfile />
-    <ApplicationInsightsResourceId>/subscriptions/210f9008-d721-4821-8696-6a830a3d81af/resourcegroups/Default-ApplicationInsights-EastUS/providers/microsoft.insights/components/O365DemoBot</ApplicationInsightsResourceId>
+    <ApplicationInsightsResourceId>/subscriptions/210f9008-d721-4821-8696-6a830a3d81af/resourcegroups/O365DemoBot/providers/microsoft.insights/components/O365DemoBotApi</ApplicationInsightsResourceId>
     <ApplicationInsightsAnnotationResourceId>/subscriptions/210f9008-d721-4821-8696-6a830a3d81af/resourcegroups/Default-ApplicationInsights-EastUS/providers/microsoft.insights/components/O365DemoBot</ApplicationInsightsAnnotationResourceId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
